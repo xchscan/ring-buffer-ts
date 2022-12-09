@@ -1,7 +1,7 @@
 {
   "name": "@xchscan/ring-buffer-ts",
   "private": false,
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A circular array buffer written in modern TypeScript.",
   "scripts": {
     "build": "webpack",
@@ -30,10 +30,13 @@
     "circular"
   ],
   "author": "Dominik-Andreas Geng",
+  "contributors": [
+    "tjump <tjump@protonmail.com> (https://xchscan.com/)"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/domske/ring-buffer-ts.git"
+    "url": "git://github.com/xchscan/ring-buffer-ts.git"
   },
   "devDependencies": {
     "@types/jest": "^24.0.23",
